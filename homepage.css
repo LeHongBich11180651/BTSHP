@@ -363,7 +363,7 @@ align-items: center;
 }
 #content .mcontent .mrcontent .ndttsk>a>p:hover{
     color:var(--maud);
-    background:rgb(172, 155, 155);
+    background:white;
     
 }
 #btcontent{
